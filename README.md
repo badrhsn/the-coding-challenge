@@ -35,4 +35,3 @@ As a User, I can remove a shop from my preferred shops list
 I have add some action like
 AS a User, I can Logout to loggin with another user.
 
-# Mockups
