@@ -8,7 +8,9 @@ Hi This is my Coding Challenge Code
 This is what i coding in my App
 
 As a User, I can sign up using my email & password
+
 As a User, I can sign in using my email & password
+
 As a User, I can display the list of shops sorted by distance
 As a User, I can like a shop, so it can be added to my preferred shops
 Acceptance criteria: liked shops shouldn’t be displayed on the main page
