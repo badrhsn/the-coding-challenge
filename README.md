@@ -4,6 +4,13 @@ Hi This is my Coding Challenge Code
 
 u will find the data base file in the project structure 
 
+DATA BASE INFO
+
+DATABASE NAME : coding-challenge
+
+USER : badr
+
+PASSWORD : 123
 
 # Functional spec
 
